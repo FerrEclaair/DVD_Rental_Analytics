@@ -1,6 +1,6 @@
 # 🎬 DVD Rental Analytics Dashboard with AI
 
-An interactive **DVD Rental Analytics Dashboard** built with **FastAPI, PostgreSQL, Pandas, Plotly-style interactive visualizations, DeepSeek AI, and a local Transformer model**.
+An interactive **DVD Rental Analytics Dashboard** built with **FastAPI, PostgreSQL, Pandas, Plotly-style interactive visualizations, and DeepSeek AI.
 
 The application turns the classic DVD Rental database into an interactive business intelligence dashboard where users can explore revenue, rentals, customers, films, actors, inventory, and other operational metrics — while an AI assistant can answer dashboard-related questions and dynamically control the dashboard.
 
@@ -870,7 +870,6 @@ Potential improvements include:
 - [ ] Add database migration management.
 - [ ] Add production logging and monitoring.
 - [ ] Replace JSON state storage with a persistent database.
-- [ ] Improve local Transformer model management.
 
 ---
 
@@ -890,19 +889,3 @@ Main contributions:
 - Implemented dashboard theme management.
 - Designed natural-language interaction for dashboard analytics.
 - Integrated database querying and controlled data operations.
-
----
-
-# 🎓 Project Type
-
-**Academic Final Project / Portfolio Project**
-
-This project demonstrates practical integration between:
-
-**PostgreSQL + Data Analytics + FastAPI + Machine Learning + Generative AI + Interactive Visualization**
-
----
-
-# 📜 License
-
-This project is intended for educational and portfolio purposes.
